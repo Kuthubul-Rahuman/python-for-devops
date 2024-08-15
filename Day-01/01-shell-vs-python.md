@@ -8,7 +8,7 @@ Certainly! The choice between using shell scripting and Python in DevOps depends
 
 3. **Rapid Prototyping:** If you need to quickly prototype a solution or perform one-off tasks, shell scripting is usually faster to write and execute. It's great for ad-hoc tasks.
 
-4. **Text Processing:** Shell scripting is well-suited for tasks that involve text manipulation, such as parsing log files, searching and replacing text, or extracting data from text-based sources.
+4. **Text Processing:** Shell scripting is well-suited for tasks that involve text manipulation, such as parsing log files, searching and replacing text, or extracting data from text-based sources.by using curl command
 
 5. **Environment Variables and Configuration:** Shell scripts are useful for managing environment variables and configuring your system.
 
