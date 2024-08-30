@@ -10,6 +10,16 @@ def get_server_status(server_name):
     return server_config.get(server_name, {}).get('status', 'Server not found')
 
 # Example usage
+
 server_name = 'server2'
+status = get_server_status(server_name)
+print(f"{server_name} status: {status}")
+
+
+server_name = 'server4'
+status = get_server_status(server_name)
+print(f"{server_name} status: {status}")
+
+server_name = 'server1'
 status = get_server_status(server_name)
 print(f"{server_name} status: {status}")
